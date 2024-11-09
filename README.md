@@ -1,4 +1,4 @@
-![Banner](https://github.com/madhanreddy23/madhanreddy23/blob/main/banner.png)
+![Banner](https://github.com/madhanreddy23/madhanreddy23/blob/main/Madanmohan.png)
 
 # Hello! 👋 I'm Madanmohan Reddy Kothapalli
 
