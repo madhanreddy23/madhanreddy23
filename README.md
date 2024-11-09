@@ -78,7 +78,7 @@ An IoT-based bot designed to assist farmers in crop management by providing real
 ## 🌐 Connect with Me
 
 - **Email**: [madhanreddyk000@gmail.com](mailto:madhanreddyk000@gmail.com)
-- **LinkedIn**: [Madanmohan Reddy Kothapalli](https://www.linkedin.com/madanr23)
+- **LinkedIn**: [Madanmohan Reddy Kothapalli](https://www.linkedin.com/in/madanr23/)
 - **Twitter**: [@yourtwitterhandle](https://twitter.com/madhanreddyk000)
 - **Kaggle**: [kaggle.com/yourkaggleusername](https://kaggle.com/madanreddy23)
 
