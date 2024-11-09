@@ -1,4 +1,5 @@
 # Hello! 👋 I'm Madanmohan Reddy Kothapalli
+![Banner](https://github.com/madhanreddy23/madhanreddy23/blob/main/banner.png)
 
 Welcome to my GitHub profile! I'm a **Data Science and AI enthusiast** with a Bachelor’s degree in Artificial Intelligence and Data Science. My passion lies in building intelligent, data-driven solutions that address real-world challenges and improve decision-making. I thrive in dynamic environments where I can apply machine learning, deep learning, and data analysis to uncover meaningful insights and drive impactful outcomes.
 
