@@ -87,12 +87,11 @@ Web app to predict housing prices using regression models and feature engineerin
 
 ## 🌐 Connect with Me
 
-- 📧 Email: madangenai@gmail.com / madhanreddyk000@gmail.com  
+- 📧 Email: madangenai@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/madanr23)  
 - 💻 [GitHub](https://github.com/madhanreddy23)  
-- 🧪 Kaggle: [yourkaggleusername](https://kaggle.com/yourkaggleusername)  
-- 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-
+- 🧪 Kaggle: [yourkaggleusername](https://kaggle.com/madanreddy23)  
+- 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/madhanreddyk000)
 ---
 
 Let's build intelligent solutions for a better tomorrow! 🚀
