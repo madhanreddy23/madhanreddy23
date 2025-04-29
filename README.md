@@ -1,95 +1,98 @@
 ![Banner](https://github.com/madhanreddy23/madhanreddy23/blob/main/Madanmohan.png)
 
-# Hello! 👋 I'm Madanmohan Reddy Kothapalli
+# 🚀 Welcome to My GitHub Profile!
 
-Welcome to my GitHub profile! I'm a **Data Science and AI enthusiast** with a Bachelor’s degree in Artificial Intelligence and Data Science. My passion lies in building intelligent, data-driven solutions that address real-world challenges and improve decision-making. I thrive in dynamic environments where I can apply machine learning, deep learning, and data analysis to uncover meaningful insights and drive impactful outcomes.
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 **Graduate in Artificial Intelligence and Data Science** from Nehru Institute of Engineering and Technology, Coimbatore.
-- 🌱 Currently expanding my knowledge in **Generative AI** and **3D Modeling**.
-- 👨‍🏫 Active in creating content on **Python, AI, and Data Science** on YouTube.
-- 💡 Interested in opportunities related to **Machine Learning, AI Development, and Data Science** roles.
-- 💬 Let's talk about **AI advancements, Machine Learning algorithms, and data-driven strategies**!
+Hi there! I'm **Kothapalli Madanmohan Reddy**, a Data Science and AI enthusiast with a Bachelor's degree in Artificial Intelligence and Data Science.  
+I specialize in building intelligent, data-driven solutions to solve real-world problems using machine learning, NLP, and deep learning.  
+I’m passionate about exploring GenAI, 3D modeling, and contributing to open-source AI projects.
 
 ---
 
-## 🔧 Technical Skills
+## 👨‍💻 About Me
 
-### Programming Languages
-- **Python**: Proficient in data processing, machine learning, and automation
-- **SQL**: Skilled in data querying and database management
+- 🎓 Graduate in Artificial Intelligence & Data Science – Nehru Institute of Engineering and Technology, Coimbatore  
+- 🌱 Currently exploring Generative AI, 3D Model Generation, and multi-agent systems  
+- 🎥 Content Creator on YouTube: Python, AI, and Data Science tutorials  
+- 💡 Keen on roles in AI/ML Engineering, Data Science, and LLM Application Development  
+- 💬 Let's chat about AI, ML, GenAI, and real-world data applications!  
+- ⚡ Fun Fact: I enjoy solving AI challenges in sunny places 😄
 
-### Machine Learning & AI
-- **Algorithms**: Supervised and Unsupervised Learning, NLP, Computer Vision
-- **Frameworks**: TensorFlow, PyTorch
+---
 
-### Libraries & Tools
-- **Data Manipulation**: Pandas, NumPy
-- **Data Visualization**: Matplotlib, Seaborn
-- **ML Development**: Scikit-Learn, TensorFlow, PyTorch
-- **Tools & IDEs**: Jupyter Notebook, VS Code, Git
+## 🛠️ Technical Skills
 
-### Data Visualization & Analysis
-- **Data Visualization**: Tableau, Power BI
-- **Analysis**: Proficient in analyzing datasets, finding patterns, and developing insights for decision-making
+### 💻 Programming & Tools
+`Python` `SQL` `C#` `.NET Core` `JavaScript` `Flask` `Streamlit` `Git` `VS Code` `Jupyter Notebook`
+
+### 🤖 AI & Machine Learning
+`Scikit-learn` `XGBoost` `TensorFlow` `PyTorch` `Transformers` `NLP` `LLMs` `Hugging Face`
+
+### 📈 Data Analysis & Visualization
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Tableau`
+
+### ☁️ Cloud & DevOps
+`AWS` `Docker` `Postman` `GitHub` `Jira`
 
 ---
 
 ## 🚀 Projects
 
-### [Movie Recommendation System](https://github.com/yourusername/movie-recommendation)
-A recommendation system utilizing collaborative filtering to suggest movies based on user preferences and ratings. This project demonstrates my expertise in machine learning algorithms and recommendation systems.
+### 🎬 Movie Recommendation System
+A hybrid system using collaborative and content-based filtering to suggest movies based on user preferences.  
+**Tech:** Python, Pandas, Scikit-Learn, TF-IDF, Cosine Similarity  
 
-- **Technologies**: Python, Pandas, Scikit-Learn
-- **Features**: Content-based and collaborative filtering for personalized recommendations
+### 🚦 Predictive Traffic Management
+Built a real-time traffic forecasting system using time series models to reduce congestion and optimize routes.  
+**Tech:** Python, TensorFlow, Matplotlib, Flask  
 
-### [Predictive Traffic Management](https://github.com/yourusername/traffic-management)
-Developed a predictive model for traffic management that uses real-time data to optimize traffic flow. This project focuses on predictive analytics and time series forecasting to enhance urban mobility.
+### 🌾 Smart Agri-Bot (Published)
+An IoT-based solution for crop health monitoring, soil data analysis, and yield prediction.  
+**Tech:** Python, IoT Sensors, TensorFlow  
+📖 [Published Paper](https://irojournals.com/iroismac/article/view/6/3/2)
 
-- **Technologies**: Python, TensorFlow, Matplotlib
-- **Impact**: Aims to reduce congestion and improve travel time estimation
+### 🧠 Mental Fitness Tracker
+Streamlit app that evaluates user sentiment and mental state using NLP models.  
+**Tech:** Python, NLTK, Logistic Regression, Streamlit
 
-### [Smart Agri-Bot](https://github.com/yourusername/smart-agri-bot)
-An IoT-based bot designed to assist farmers in crop management by providing real-time monitoring and data analytics. This project leverages IoT and machine learning to enhance agricultural productivity.
-
-- **Technologies**: Python, IoT, TensorFlow
-- **Features**: Soil moisture detection, crop health monitoring, and data analytics for yield prediction
-
----
-
-## 🎓 Certifications & Achievements
-
-- **Python Skill Certificate** - HackerRank
-- **AI Project Internship** - IBM SkillsBuild & AICTE
-- **Data Science and Machine Learning** - GUVI
-- **Presented Paper**: *Smartagro: Enhancing Crop Management with Agribot IoT System* at ICECAPS'24
+### 🏡 Real Estate Price Prediction
+Web app to predict housing prices using regression models and feature engineering.  
+**Tech:** Python, XGBoost, Streamlit, Scikit-learn
 
 ---
 
-## 🎯 Goals
+## 🏅 Certifications & Achievements
 
-- 🏆 To become proficient in **Generative AI** and **3D Model Generation**.
-- 🌐 To contribute to open-source AI projects and collaborate with developers on innovative solutions.
-- 📈 To leverage AI in building applications that can make an impact in fields like healthcare, finance, and education.
+| Certificate | Provider | Credential |
+|------------|----------|------------|
+| Python Skill Certificate | HackerRank | [View](https://www.hackerrank.com/certificates/iframe/ed8adcd5f656) |
+| Data Analytics Simulation | Accenture Forage | [Link](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_9PuCMPFLsmDbMXPoZ_1724227496370_completion_certificate.pdf) |
+| OpenAI GPT Models | Infosys Springboard | `Skills: GPT, ChatGPT` |
+| AI & ML Internship | IBM & Edunet | `PLAN-E112D5AD3768` |
+| Traffic Volume Estimation | TNSDC | `a007402678e344daa38200a1de3e3868` |
+| Cloud Fundamentals | IBM | `f79e7ba075bc41adb41e4c13d8795f30` |
+| Face Recognition in Python | GUVI | `856Vn111oI1El19X27` |
+| ChatGPT Mastery | GUVI | [Verify](https://www.guvi.in/verify-certificate?id=1930896Pv93AW761c6) |
+| SmartAgro Presentation | ICECAPS'24 | [Paper](https://irojournals.com/iroismac/article/view/6/3/2) |
+| Data Science Internship | CodersCave, CodSoft | `CodSoft ID: 843942e` |
+| Zero Trust Certified Associate | Zscaler | `yz4tjoxk7dkr` |
+
+---
+
+## 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhanreddy23&layout=compact&theme=tokyonight)  
+![Stats](https://github-readme-stats.vercel.app/api?username=madhanreddy23&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect with Me
 
-- **Email**: [madhanreddyk000@gmail.com](mailto:madhanreddyk000@gmail.com)
-- **LinkedIn**: [Madanmohan Reddy Kothapalli](https://www.linkedin.com/in/madanr23/)
-- **Twitter**: [@yourtwitterhandle](https://twitter.com/madhanreddyk000)
-- **Kaggle**: [kaggle.com/yourkaggleusername](https://kaggle.com/madanreddy23)
-
-
-I’m always open to discussing innovative projects, collaboration opportunities, or simply chatting about the latest trends in AI and Machine Learning. Let’s connect and work towards building intelligent solutions for a better future! 🌍
+- 📧 Email: madangenai@gmail.com / madhanreddyk000@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/madanr23)  
+- 💻 [GitHub](https://github.com/madhanreddy23)  
+- 🧪 Kaggle: [yourkaggleusername](https://kaggle.com/yourkaggleusername)  
+- 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
 ---
 
-### ⚡ Fun Fact
-I enjoy exploring sunny places and working on interesting AI challenges in my free time!
-
-
+Let's build intelligent solutions for a better tomorrow! 🚀
