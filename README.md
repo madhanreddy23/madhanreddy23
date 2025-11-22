@@ -1,18 +1,21 @@
-![Banner](https://github.com/madhanreddy23/madhanreddy23/blob/main/Madanmohan.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/madhanreddy23/madhanreddy23/main/Madanmohan.png" width="100%">
+</p>
 
 <h1 align="center">👋 Hi, I'm <strong>Kothapalli Madanmohan Reddy</strong></h1>
 
 <p align="center">
-AI & Data Science Engineer · Machine Learning · NLP · Generative AI · IoT Automation
+AI Engineer · Data Science · Machine Learning · NLP · Generative AI · IoT Automation
 </p>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=madhanreddy23&color=brightgreen&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/madhanreddy23?style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/madhanreddy23?style=for-the-badge" />
+![Profile Views](https://komarev.com/ghpvc/?username=madhanreddy23&color=brightgreen&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/madhanreddy23?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/madhanreddy23?style=for-the-badge)
+![Repositories](https://img.shields.io/badge/Projects-20+-blueviolet?style=for-the-badge)
 
 </div>
 
@@ -20,77 +23,75 @@ AI & Data Science Engineer · Machine Learning · NLP · Generative AI · IoT Au
 
 ## 🚀 About Me
 
-I am an AI & Data Science graduate passionate about building **real-world AI systems**, from ML models to deployable applications.
+I'm a passionate AI & Data Science Engineer focused on building **real-world intelligent solutions** — from machine learning models to deployed applications.
 
-My focus areas include **Machine Learning, NLP, IoT Robotics, Model Deployment, and Generative AI**.
-
-- 🎓 B.Tech in Artificial Intelligence & Data Science  
-- 🤖 Currently exploring: **LLM Fine-tuning, Multi-Agent AI, 3D AI Modeling**  
-- 💼 Open to: **AI Engineer | ML Engineer | NLP Engineer | Data Scientist**  
-- 🎥 Creating content in Python, AI and ML tutorials  
+- 🎓 B.Tech in **Artificial Intelligence & Data Science**
+- 🤖 Exploring: **Generative AI, Multi-Agent Systems, 3D Model AI**
+- 🧪 Experienced in: ML, NLP, IoT Robotics, System Automation
+- 🎯 Career Aim: **ML Engineer | AI Engineer | NLP Engineer | Data Scientist**
+- 🎥 Content Creator (Python · AI · Projects)
 
 ---
 
 ## 🧠 Skills & Tech Stack
 
-### 💻 Programming 
-`Python` `SQL` `Java`
+### 🔹 Programming & Tools  
+`Python` `SQL` `Java` `Git` `Jupyter` `VS Code`
 
-### 🤖 AI & Machine Learning  
-`Scikit-Learn` `XGBoost` `TensorFlow` `PyTorch` `Transformers` `OpenAI API` `GenAI`
+### 🔹 AI / ML & NLP  
+`Scikit-learn` `XGBoost` `PyTorch` `TensorFlow` `Transformers` `OpenAI API` `Hugging Face`
 
-### 📊 Data & Visualization  
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Tableau` `Power BI`
+### 🔹 Data Analytics & Visualization  
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Tableau`
 
-### ☁ Cloud & Deployment  
+### 🔹 Cloud & Deployment  
 `AWS` `Docker` `Streamlit` `Flask` `GitHub Actions`
 
-### 🤖 IoT & Embedded  
-`Arduino` `Sensors` `Motor Drivers` `Automation`
+### 🔹 IoT, Robotics & Automation  
+`Arduino` `Sensors` `Motor Drivers` `Automation Systems`
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Category | Stack |
-|--------|----------|--------|
-| 🌿 Smart-Agro: IoT-Based Crop Automation System *(Published)* | IoT + Robotics | Arduino, Automation, Sensors |
-| 🎬 Movie Recommendation System | ML/NLP | Python, TF-IDF, Scikit-Learn |
-| ✍️ AI Text Summarizer using Transformers | NLP / GenAI | Hugging Face, T5/BART, Streamlit |
-| 🧠 Mental Health Sentiment Analyzer | NLP | Logistic Regression, NLTK, Streamlit |
-| 🏡 Real Estate Price Prediction App | ML Deployment | XGBoost, Streamlit |
-| 🚦 Traffic Volume Prediction System | Time Series | ARIMA, Flask |
-| 🔍 Web Server Log Analyzer | Automation + Security | Regex, Pandas |
+| Project Name | Domain | Tech Stack | Status |
+|-------------|--------|------------|--------|
+| 🌱 **Smart-Agro: IoT Crop Automation System (Published)** | IoT + Automation | Arduino, IoT Sensors | ✔ |
+| 🎬 **Movie Recommendation System** | ML/NLP | TF-IDF, Cosine Similarity, Python | ✔ |
+| ✍️ **AI Text Summarizer (T5/BART)** | NLP | HuggingFace, Transformers, Streamlit | ✔ |
+| 🧠 **Mental Health Sentiment Analyzer** | NLP | NLTK, Logistic Regression, Streamlit | ✔ |
+| 🏡 **Real Estate Price Prediction** | ML Deployment | XGBoost, Streamlit | ✔ |
+| 🚦 **Traffic Volume Forecasting System** | Time Series | ARIMA, Flask | ✔ |
+| 🔍 **Web Log Analyzer (Cyber + Python)** | Automation | Regex, Pandas | ✔ |
 
 ---
 
 ## 🏆 Badges & Highlights
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI%20Engineer-Verified-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IoT%20Developer-Green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Research%20Published-ICECAPS’24-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Generative%20AI-Active-purple?style=for-the-badge" />
-
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/AI%20Engineer-Verified-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Research-ICECAPS'24-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/IoT%20Developer-Green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Generative%20AI-In%20Progress-purple?style=for-the-badge">
+</p>
 
 ---
 
-## 📜 Certifications
+## 🎓 Certifications
 
-- Python Skill Certificate — HackerRank  
-- AI Engineer Certification — OneRoadmap  
-- Data Analytics Job Simulation — Accenture  
-- Smart-Agro Published — ICECAPS’24  
-- Zero Trust Certified Associate — Zscaler  
-- Cloud Fundamentals — IBM  
-- Face Recognition in Python — GUVI  
-- AI Internship — IBM + Edunet  
+| Certification | Platform |
+|--------------|----------|
+| Python Skill Certificate | HackerRank |
+| AI Engineer Certification | OneRoadmap |
+| Data Analytics Job Simulation | Accenture Forage |
+| Smart-Agro Research Publication | ICECAPS’24 |
+| Zero Trust Certified Associate | Zscaler |
+| Face Recognition | GUVI |
+| AI & ML Internship | IBM + Edunet |
 
 ---
 
-## 📊 GitHub Performance
+## 📈 GitHub Performance
 
 <div align="center">
 
@@ -98,13 +99,21 @@ My focus areas include **Machine Learning, NLP, IoT Robotics, Model Deployment, 
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=madhanreddy23&theme=onedark&no-bg=true&no-frame=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=madhanreddy23&theme=tokyonight&no-frame=true&margin-w=10" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=madhanreddy23&show_icons=true&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhanreddy23&layout=compact&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📊 Activity Graph
 
 <div align="center">
 
@@ -116,15 +125,17 @@ My focus areas include **Machine Learning, NLP, IoT Robotics, Model Deployment, 
 
 ## 🌐 Connect With Me
 
-📧 Email — **madangenai@gmail.com**  
-🔗 LinkedIn — **https://linkedin.com/in/madanr23**  
-💻 GitHub — **https://github.com/madhanreddy23**  
-📊 Kaggle — **https://kaggle.com/madhanreddy23**
+📧 Email: **madangenai@gmail.com**  
+🔗 LinkedIn: **https://linkedin.com/in/madanr23**  
+📦 GitHub Portfolio: **https://github.com/madhanreddy23**  
+📊 Kaggle: **https://kaggle.com/madhanreddy23**
 
 ---
 
-### 🎯 Vision
+### 🎯 Career Vision
 
-> _“My mission is to build intelligent systems that create real-world impact.”_
+> _"To build intelligent and meaningful AI systems that create global impact."_ 🚀
 
-⭐ If you like my work, consider **starring ⭐ my repositories — it helps a lot!**
+---
+
+⭐ _If you like my work, consider giving a star — it helps more than you think._ ⭐
