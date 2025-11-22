@@ -33,7 +33,7 @@ I focus on creating end-to-end solutions using **Machine Learning, NLP, IoT Robo
 ## 🧠 Skills & Tech Stack
 
 ### 💻 Programming & Tools  
-`Python` `SQL` `.NET Core (Basics)` `Git` `Postman` `Docker`
+`Python` `SQL` `Java` `Git`
 
 ### 🤖 AI & Machine Learning  
 `Scikit-Learn` `XGBoost` `TensorFlow` `PyTorch` `Transformers` `OpenAI API` `GenAI`
